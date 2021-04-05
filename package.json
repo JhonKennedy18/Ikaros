@@ -1,0 +1,31 @@
+{
+  "name": "ikaros",
+  "version": "1.0.0",
+  "description": "Ikaros es un bot multiproposito para discord.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonKennedy18/Ikaros.git"
+  },
+  "author": "Jhon Kennedy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhonKennedy18/Ikaros/issues"
+  },
+  "homepage": "https://github.com/JhonKennedy18/Ikaros#readme",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "booru": "^2.4.0",
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.4",
+    "express": "^4.17.1",
+    "giphy-api": "^2.0.1",
+    "log-symbols": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "sqlite3": "^5.0.2"
+  }
+}
