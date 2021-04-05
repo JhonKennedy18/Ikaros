@@ -1,13 +1,7 @@
 node_modules/
-data/
-dara\
 config.json
 .env
-config.json
-shrinkwrap.yaml
 package.json
 package-lock.json
-yarn.lock
-kyaru
 commands/Misc/tops.js
 old_commands/
