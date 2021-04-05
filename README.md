@@ -1,4 +1,4 @@
-# Ikaros_Bot_
+# Ikaros
 
 Ikaros es un bot multiproposito para discord.
 
